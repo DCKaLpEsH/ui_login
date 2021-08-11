@@ -1,16 +1,12 @@
 # login_ui
 
-A new Flutter project.
+Some Login Screen UI code.
+To tryout each of the screens, just change the home property in lib/main.dart folder to a particular screen.
+UI's taken from Pinterest.
+LoginScreen1 UI : https://in.pinterest.com/pin/14988611246737074/
+![screen_1](https://user-images.githubusercontent.com/65325367/129099822-0e398b1c-ab7f-4a17-8fd4-88a1a85d819e.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+LoginScreen3 UI : https://in.pinterest.com/pin/41306521572806754/
+![screen_3](https://user-images.githubusercontent.com/65325367/129099689-986035fc-1a79-40b8-bbf6-7f5dc425d5ac.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
